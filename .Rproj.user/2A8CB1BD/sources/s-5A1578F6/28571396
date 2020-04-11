@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3092828781",
+    "hash" : "2347009801",
     "id" : "28571396",
-    "lastKnownWriteTime" : 1586610991,
-    "last_content_update" : 1586610991788,
+    "lastKnownWriteTime" : 1586611878,
+    "last_content_update" : 1586611878714,
     "path" : "~/Desktop/Covid/Scripts/CovidMainScript.R",
     "project_path" : "Scripts/CovidMainScript.R",
     "properties" : {
-        "cursorPosition" : "1,0",
+        "cursorPosition" : "3,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
