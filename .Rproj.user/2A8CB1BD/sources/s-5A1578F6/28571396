@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586610963402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3092828781",
+    "id" : "28571396",
+    "lastKnownWriteTime" : 1586610991,
+    "last_content_update" : 1586610991788,
+    "path" : "~/Desktop/Covid/Scripts/CovidMainScript.R",
+    "project_path" : "Scripts/CovidMainScript.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
