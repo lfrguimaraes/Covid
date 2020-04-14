@@ -15,7 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is an R Markdown document for COVID project.
 
-[Link for Data Source](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
+The data source is: [Link](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
+
+```{r}
+summary(parisCases) 
+```
 
 
 
